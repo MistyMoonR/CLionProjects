@@ -96,7 +96,7 @@ P233
 差点忘了git这么用
 
 **3.10**  
-完成CSE108的Exercise 3.1 和3.2
+完成CSE108的Exercise 3.1 和3.2      
 分别是Tout hostel和Tug of War
 
 -----------------------
