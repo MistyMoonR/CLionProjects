@@ -49,24 +49,13 @@ RM = C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\15400\CLionProjects\CSE107
+CMAKE_SOURCE_DIR = C:\Users\15400\CLionProjects\CSE108\Lab3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\15400\CLionProjects\CSE107\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\15400\CLionProjects\CSE108\Lab3\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
-
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache\fast: edit_cache
-
-.PHONY : edit_cache\fast
 
 # Special rule for the target rebuild_cache
 rebuild_cache:
@@ -79,11 +68,22 @@ rebuild_cache\fast: rebuild_cache
 
 .PHONY : rebuild_cache\fast
 
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache\fast: edit_cache
+
+.PHONY : edit_cache\fast
+
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE107\cmake-build-debug\CMakeFiles C:\Users\15400\CLionProjects\CSE107\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab3\cmake-build-debug\CMakeFiles C:\Users\15400\CLionProjects\CSE108\Lab3\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE107\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab3\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -112,44 +112,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named CSE107
+# Target rules for targets named Lab3
 
 # Build rule for target.
-CSE107: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CSE107
-.PHONY : CSE107
+Lab3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) Lab3
+.PHONY : Lab3
 
 # fast build rule for target.
-CSE107\fast:
-	$(MAKE) -f CMakeFiles\CSE107.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CSE107.dir\build
-.PHONY : CSE107\fast
+Lab3\fast:
+	$(MAKE) -f CMakeFiles\Lab3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab3.dir\build
+.PHONY : Lab3\fast
 
-main.obj: main.cpp.obj
+main.obj: main.c.obj
 
 .PHONY : main.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\CSE107.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CSE107.dir\main.cpp.obj
-.PHONY : main.cpp.obj
+main.c.obj:
+	$(MAKE) -f CMakeFiles\Lab3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab3.dir\main.c.obj
+.PHONY : main.c.obj
 
-main.i: main.cpp.i
+main.i: main.c.i
 
 .PHONY : main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\CSE107.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CSE107.dir\main.cpp.i
-.PHONY : main.cpp.i
+main.c.i:
+	$(MAKE) -f CMakeFiles\Lab3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab3.dir\main.c.i
+.PHONY : main.c.i
 
-main.s: main.cpp.s
+main.s: main.c.s
 
 .PHONY : main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\CSE107.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\CSE107.dir\main.cpp.s
-.PHONY : main.cpp.s
+main.c.s:
+	$(MAKE) -f CMakeFiles\Lab3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab3.dir\main.c.s
+.PHONY : main.c.s
 
 # Help Target
 help:
@@ -157,9 +157,9 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... CSE107
-	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Lab3
+	@echo ... edit_cache
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

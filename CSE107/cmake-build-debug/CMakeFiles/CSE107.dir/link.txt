@@ -1,1 +1,0 @@
-/usr/local/Cellar/gcc/8.2.0/bin/g++-8  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CSE107.dir/main.cpp.o  -o CSE107 

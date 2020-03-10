@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/15400/CLionProjects/CSE107/main.cpp" "C:/Users/15400/CLionProjects/CSE107/cmake-build-debug/CMakeFiles/CSE107.dir/main.cpp.obj"
+set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/15400/CLionProjects/CSE108/Lab3/main.c" "C:/Users/15400/CLionProjects/CSE108/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/main.c.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "MSVC")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

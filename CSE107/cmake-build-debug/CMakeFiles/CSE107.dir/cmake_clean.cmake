@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSE107.dir/main.cpp.o"
+  "CMakeFiles/CSE107.dir/main.cpp.obj"
+  "CSE107.exe"
+  "CSE107.exe.manifest"
+  "CSE107.lib"
   "CSE107.pdb"
-  "CSE107"
 )
 
 # Per-language clean rules from dependency scanning.
