@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moonmisty/CLionProjects/Accelerate2/GradeBook.cpp
+iostream
+-
+iomanip
+-
+GradeBook.h
+/Users/moonmisty/CLionProjects/Accelerate2/GradeBook.h
+
+/Users/moonmisty/CLionProjects/Accelerate2/GradeBook.h
+string
+-
+
+/Users/moonmisty/CLionProjects/Accelerate2/main.cpp
+iostream
+-
+

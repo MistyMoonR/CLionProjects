@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moonmisty/CLionProjects/Accelerate4/GradeBook.h
+string
+-
+
+/Users/moonmisty/CLionProjects/Accelerate4/main.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+random
+-
+iomanip
+-
+ctime
+-
+cmath
+-
+GradeBook.h
+/Users/moonmisty/CLionProjects/Accelerate4/GradeBook.h
+maximum.h
+/Users/moonmisty/CLionProjects/Accelerate4/maximum.h
+GradeBook.h
+/Users/moonmisty/CLionProjects/Accelerate4/GradeBook.h
+
+/Users/moonmisty/CLionProjects/Accelerate4/maximum.h
+

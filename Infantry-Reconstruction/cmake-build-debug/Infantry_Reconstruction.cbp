@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Infantry_Reconstruction"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Infantry_Reconstruction">
+				<Option output="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Infantry_Reconstruction" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 Infantry_Reconstruction"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Infantry_Reconstruction/fast">
+				<Option output="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Infantry_Reconstruction" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/8.2.0/lib/gcc/8/gcc/x86_64-apple-darwin18.2.0/8.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 Infantry_Reconstruction/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/bsp.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/bsp.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/can1.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/can1.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/can2.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/can2.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/encoder.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/encoder.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/mpu6500driver.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/mpu6500driver.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/mpu6500driver_hardware.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/mpu6500driver_hardware.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/mpu6500reg.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/pid.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/pid.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/power_ctrl.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/power_ctrl.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/pwn.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/pwn.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/remote.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/remote.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/stmflash.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/stmflash.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/timer.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/BSP/timer.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/Friction.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/Friction.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/chassis.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/chassis.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/gimbal.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/gimbal.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/imu.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/imu.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/trigger.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/HAL/trigger.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/delay.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/delay.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/sys.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/sys.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/usart.cpp">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/SYSTEM/usart.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/cmake-build-debug/USER/stm32f4xx.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/main.c">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/main.h">
+			<Option target="Infantry_Reconstruction"/>
+		</Unit>
+		<Unit filename="/Users/moonmisty/CLionProjects/Infantry-Reconstruction/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

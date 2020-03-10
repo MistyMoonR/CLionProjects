@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/8.2.0/bin/g++-8  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Accelerate4.dir/main.cpp.o CMakeFiles/Accelerate4.dir/GradeBook.cpp.o CMakeFiles/Accelerate4.dir/maximum.cpp.o  -o Accelerate4 

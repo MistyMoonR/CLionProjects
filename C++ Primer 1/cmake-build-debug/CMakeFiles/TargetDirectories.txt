@@ -1,0 +1,3 @@
+/Users/moonmisty/CLionProjects/TEST1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/moonmisty/CLionProjects/TEST1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moonmisty/CLionProjects/TEST1/cmake-build-debug/CMakeFiles/TEST1.dir
