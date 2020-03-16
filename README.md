@@ -1,6 +1,6 @@
 ## 中文版C++ primer 错误太多，受不了:mask::mask::mask:  
 
-### version ：9.3.1
+### version ：9.3.4
 
 -----------------------
 |Author|MistyMoon|
@@ -98,6 +98,12 @@ P233
 **3.10**  
 完成CSE108的Exercise 3.1 和3.2      
 分别是Tout hostel和Tug of War
+
+
+**3.16**  
+这几天全都在赶report
+真的很想吐槽Assignment 3.2, 判断条件很奇怪。
+算了不管了。SB玩意
 
 -----------------------
 
