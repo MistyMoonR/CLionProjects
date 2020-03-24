@@ -45,21 +45,21 @@ RM = C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\15400\CLionProjects\CSE108\Lab4
+CMAKE_SOURCE_DIR = C:\Users\15400\CLionProjects\CSE108\Lab5
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\15400\CLionProjects\CSE108\Lab4\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\15400\CLionProjects\CSE108\Lab5\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles\Lab4.dir\all
+all: CMakeFiles\Lab5.dir\all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles\Lab4.dir\clean
+clean: CMakeFiles\Lab5.dir\clean
 
 .PHONY : clean
 
@@ -69,31 +69,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/Lab4.dir
+# Target rules for target CMakeFiles/Lab5.dir
 
 # All Build rule for target.
-CMakeFiles\Lab4.dir\all:
-	$(MAKE) -f CMakeFiles\Lab4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab4.dir\depend
-	$(MAKE) -f CMakeFiles\Lab4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab4.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\15400\CLionProjects\CSE108\Lab4\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Lab4"
-.PHONY : CMakeFiles\Lab4.dir\all
+CMakeFiles\Lab5.dir\all:
+	$(MAKE) -f CMakeFiles\Lab5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab5.dir\depend
+	$(MAKE) -f CMakeFiles\Lab5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab5.dir\build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\15400\CLionProjects\CSE108\Lab5\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Lab5"
+.PHONY : CMakeFiles\Lab5.dir\all
 
 # Build rule for subdir invocation for target.
-CMakeFiles\Lab4.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab4\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Lab4.dir\all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab4\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles\Lab4.dir\rule
+CMakeFiles\Lab5.dir\rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab5\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Lab5.dir\all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\15400\CLionProjects\CSE108\Lab5\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles\Lab5.dir\rule
 
 # Convenience name for target.
-Lab4: CMakeFiles\Lab4.dir\rule
+Lab5: CMakeFiles\Lab5.dir\rule
 
-.PHONY : Lab4
+.PHONY : Lab5
 
 # clean rule for target.
-CMakeFiles\Lab4.dir\clean:
-	$(MAKE) -f CMakeFiles\Lab4.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab4.dir\clean
-.PHONY : CMakeFiles\Lab4.dir\clean
+CMakeFiles\Lab5.dir\clean:
+	$(MAKE) -f CMakeFiles\Lab5.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Lab5.dir\clean
+.PHONY : CMakeFiles\Lab5.dir\clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

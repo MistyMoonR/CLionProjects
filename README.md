@@ -1,8 +1,7 @@
 ## 中文版C++ primer 错误太多，受不了:mask::mask::mask:  
 
-### version ：9.3.5
+### version ：9.3.6
 
-测试push1
 
 -----------------------
 |Author|MistyMoon|
@@ -101,7 +100,6 @@ P233
 完成CSE108的Exercise 3.1 和3.2      
 分别是Tout hostel和Tug of War
 
-
 **3.16**  
 这几天全都在赶report    
 真的很想吐槽Assignment 3.2, 判断条件很奇怪。    
@@ -110,6 +108,11 @@ P233
 **3.18**  
 头疼一天，ipad也没电，只好先看看C  
 Lab4的 Array部分 
+
+**3.24**  
+前段时间基本再画板子，画PCB真好玩。     
+看来需要学点硬件的知识了        
+正事：Lab5
 
 
 -----------------------
