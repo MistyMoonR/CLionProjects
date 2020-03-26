@@ -13,7 +13,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f1f3ecc0-1494-44ec-8303-e1b5a7b48de7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/cmake-build-debug/Lab5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +86,7 @@
       <workItem from="1583741130081" duration="6629000" />
       <workItem from="1583831488811" duration="1448000" />
       <workItem from="1583835569534" duration="629000" />
+      <workItem from="1585200234273" duration="617000" />
     </task>
     <servers />
   </component>
