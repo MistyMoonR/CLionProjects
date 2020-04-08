@@ -26,24 +26,24 @@ The C compiler identification is MSVC, found in "C:/Users/15400/CLionProjects/CS
 Determining if the C compiler works passed with the following output:
 Change Dir: C:/Users/15400/CLionProjects/CSE108/Lab6/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_ae34c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_ae34c.dir\build.make /nologo -L                  CMakeFiles\cmTC_ae34c.dir\build
-Building C object CMakeFiles/cmTC_ae34c.dir/testCCompiler.c.obj
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15400\AppData\Local\Temp\nm62E8.tmp
+Run Build Command(s):nmake /nologo cmTC_3c79d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_3c79d.dir\build.make /nologo -L                  CMakeFiles\cmTC_3c79d.dir\build
+Building C object CMakeFiles/cmTC_3c79d.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15400\AppData\Local\Temp\nm67F.tmp
 testCCompiler.c
-Linking C executable cmTC_ae34c.exe
-	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_ae34c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_ae34c.dir\objects1.rsp @C:\Users\15400\AppData\Local\Temp\nm6431.tmp
+Linking C executable cmTC_3c79d.exe
+	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_3c79d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3c79d.dir\objects1.rsp @C:\Users\15400\AppData\Local\Temp\nm6BF.tmp
 
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/15400/CLionProjects/CSE108/Lab6/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_f9478\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_f9478.dir\build.make /nologo -L                  CMakeFiles\cmTC_f9478.dir\build
-Building C object CMakeFiles/cmTC_f9478.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15400\AppData\Local\Temp\nm65B7.tmp
+Run Build Command(s):nmake /nologo cmTC_35838\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_35838.dir\build.make /nologo -L                  CMakeFiles\cmTC_35838.dir\build
+Building C object CMakeFiles/cmTC_35838.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15400\AppData\Local\Temp\nm835.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_f9478.exe
-	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_f9478.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f9478.dir\objects1.rsp @C:\Users\15400\AppData\Local\Temp\nm65F6.tmp
+Linking C executable cmTC_35838.exe
+	C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_35838.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_35838.dir\objects1.rsp @C:\Users\15400\AppData\Local\Temp\nm864.tmp
 
 
 

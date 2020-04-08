@@ -153,7 +153,7 @@ int main()
 int digitSum(int inp)
 {
     int a;
-    int sum=0;
+    int sum = 0;
     a = inp % 10;
     if (inp / 10 == 0) {
         return inp;
