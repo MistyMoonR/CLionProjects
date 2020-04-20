@@ -1,3 +1,0 @@
-C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Lab_7.dir/objects.a
-C:\MYPROG~1\mingw64\bin\ar.exe cr CMakeFiles\Lab_7.dir/objects.a @CMakeFiles\Lab_7.dir\objects1.rsp
-C:\MYPROG~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Lab_7.dir/objects.a -Wl,--no-whole-archive  -o Lab_7.exe -Wl,--out-implib,libLab_7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lab_7.dir\linklibs.rsp
