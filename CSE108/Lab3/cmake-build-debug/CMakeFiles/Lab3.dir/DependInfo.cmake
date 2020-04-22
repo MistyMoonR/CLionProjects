@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/15400/CLionProjects/CSE108/Lab3/main.c" "C:/Users/15400/CLionProjects/CSE108/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

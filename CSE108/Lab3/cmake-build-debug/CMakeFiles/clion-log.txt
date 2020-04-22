@@ -1,4 +1,11 @@
-C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\15400\CLionProjects\CSE108\Lab3
+C:\Users\15400\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\15400\CLionProjects\CSE108\Lab3
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/My program/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/My program/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Users/15400/CLionProjects/CSE108/Lab3/cmake-build-debug
