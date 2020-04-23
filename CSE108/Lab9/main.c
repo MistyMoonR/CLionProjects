@@ -77,7 +77,25 @@
 //}
 
 //Assignment 9.3 Distinct Characters
+int distinctChar(char**, int);
 
+int main() {
+    char* input[3] = { "abcdea", "bbb", "de" };
+    printf("%d", distinctChar(input, 3));
+    //distinctChar(input, 3);
+}
 
-
-
+int distinctChar(char** input, int size) {
+    int result = 0;
+    char appear[256] = {0};
+    for (int i = 0; i < size; i++) {
+        char* cur = input[i];
+        while (*cur) {
+            appear[(int) (*cur++)] = i == 0;
+        }
+    }
+    for (int i = 0; i < 256; i++) {
+        result += appear[i];
+    }
+    return result;
+}
